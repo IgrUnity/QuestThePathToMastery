@@ -506,3 +506,8 @@ Start importing Assets/TerrainData_ca59bb98-23a3-4954-af21-d24ea10a0bbe.asset us
  -> (artifact id: 'ffc653916113c733711a9ecc876eb013') in 0.014596 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
